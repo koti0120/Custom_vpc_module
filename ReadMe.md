@@ -1,8 +1,6 @@
 # Custom AWS VPC Module
 
-
-
-This module is developed for 3-tie Application. We are creating following resources. This module creates resources in first 2 AZ for HA.
+We are creating following resources. This module creates resources in first 2 AZ for HA.
 
 * VPC
 * Internet Gateway
